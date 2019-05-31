@@ -1,4 +1,4 @@
 {
- "Anti":"签名信息",
- "AntiMsg":"盗版提示"
+ "Anti":"NDViNDNkZWRiOWE5NzU4ZmY2ZTAzOTEyOWE5OGFjY2U=",
+ "AntiMsg":"你正在使用的是盗版应用！正版应用请联系QQ649631328"
 }
